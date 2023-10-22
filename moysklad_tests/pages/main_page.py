@@ -1,5 +1,5 @@
 import allure
-from selene import browser, have, be
+from selene import browser, be
 
 
 class MainPage:
