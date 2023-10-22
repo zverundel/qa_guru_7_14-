@@ -56,6 +56,6 @@ def setup_browser(request):
 
 @pytest.fixture(scope='function', autouse=True)
 def open_new_browser(setup_browser):
-    browser.config.base_url = 'https://leroymerlin.ru'
+    browser.config.base_url = 'https://www.moysklad.ru'
     browser.config.window_width = 3440
     browser.config.window_height = 1440
