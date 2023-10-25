@@ -1,4 +1,4 @@
-# Проект по тестированию главной страницы сайта компании "ИННОСЕТИ"
+# Проект по тестированию главной страницы сайта компании "МОЙСКЛАД"
 > <a target="_blank" href="https://www.moysklad.ru/">Ссылка на cайт</a>
 
 ![This is an image](design/images/moysklad-main.png)
